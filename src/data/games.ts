@@ -33,7 +33,19 @@ export interface Game {
   mirrors: MirrorLink[]
 }
 
-export const games = rawGames as Game[]
+const base = import.meta.env.BASE_URL
+
+function asset(p?: string): string | undefined {
+  if (!p) return undefined
+  return p.startsWith('/') ? base + p.slice(1) : p
+}
+
+export const games: Game[] = (rawGames as Game[]).map((g) => ({
+  ...g,
+  cover: asset(g.cover),
+  wallpaper: asset(g.wallpaper),
+  screenshots: g.screenshots?.map((s) => asset(s) ?? ''),
+}))
 
 export function allGenres(gamesList: Game[]): string[] {
   const set = new Set<string>()
