@@ -3554,7 +3554,7 @@
     ],
     "link": "https://gamepciso.com/dishonored-2-download-free/",
     "date": "2018-12-16T14:00:43",
-    "download": "https://www.filecrypt.cc/Container/0E0266EF31.html",
+    "download": "",
     "mirrors": []
   },
   {
@@ -5230,7 +5230,7 @@
     ],
     "link": "https://gamepciso.com/bayonetta-download-free/",
     "date": "2018-05-10T15:01:24",
-    "download": "https://www.filecrypt.cc/Container/95D60FFC7E.html",
+    "download": "",
     "mirrors": []
   },
   {
@@ -7856,7 +7856,20 @@
     "link": "https://gamepciso.com/the-witcher-2-assassins-of-kings-enhanced-edition-download-free/",
     "date": "2020-08-23T16:11:56",
     "download": "https://filecrypt.cc/Container/23AF1C8CBB.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Onedrive",
+        "url": "https://filecrypt.cc/Container/23AF1C8CBB.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/7CCEBDE741.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.cc/Container/1B3F31908D.html"
+      }
+    ]
   },
   {
     "id": "split-fiction",
@@ -8019,8 +8032,17 @@
     ],
     "link": "https://gamepciso.com/red-dead-redemption-download-free/",
     "date": "2024-10-30T15:35:56",
-    "download": "https://www.filecrypt.cc/Container/61EF876B72.html",
-    "mirrors": []
+    "download": "https://www.filecrypt.cc/Container/D4E890845B.html",
+    "mirrors": [
+      {
+        "label": "Datanodes",
+        "url": "https://www.filecrypt.cc/Container/D4E890845B.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/60F6D8B920.html"
+      }
+    ]
   },
   {
     "id": "gears-5",
@@ -8047,7 +8069,20 @@
     "link": "https://gamepciso.com/gears-5-download-free/",
     "date": "2020-12-23T00:23:19",
     "download": "https://www.filecrypt.cc/Container/20F5B7A7D5.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/20F5B7A7D5.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/A78536424D.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://www.filecrypt.cc/Container/E1A1187602.html"
+      }
+    ]
   },
   {
     "id": "halo-the-master-chief-collection",
