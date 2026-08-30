@@ -8491,7 +8491,12 @@
     "link": "https://gamepciso.com/metal-gear-solid-v-ground-zeroes-download-free/",
     "date": "2017-09-04T03:50:56",
     "download": "https://www.filecrypt.cc/Container/9A8CE91168.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/9A8CE91168.html"
+      }
+    ]
   },
   {
     "id": "silent-hill-f",
@@ -8727,7 +8732,28 @@
     "link": "https://gamepciso.com/sid-meiers-civilization-7-download-free/",
     "date": "2026-04-01T15:29:12",
     "download": "https://www.filecrypt.cc/Container/394BB7D807.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/394BB7D807.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/12300335B0.html"
+      },
+      {
+        "label": "Datanodes",
+        "url": "https://www.filecrypt.cc/Container/8753A75173.html"
+      },
+      {
+        "label": "FileQ",
+        "url": "https://www.filecrypt.cc/Container/E8522B6358.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/FD53995C2E.html"
+      }
+    ]
   },
   {
     "id": "manor-lords-pc-iso",
@@ -9734,7 +9760,7 @@
     ],
     "link": "https://gamepciso.com/call-duty-black-ops-pc-iso/",
     "date": "2010-04-27T13:01:11",
-    "download": "https://www.filecrypt.cc/Container/49667C4BE3.html",
+    "download": "",
     "mirrors": []
   },
   {
@@ -9846,7 +9872,7 @@
     ],
     "link": "https://gamepciso.com/call-of-duty-modern-warfare-remastered-download-free/",
     "date": "2018-04-20T14:10:06",
-    "download": "https://www.filecrypt.cc/Container/CD5E5B6EEB.html",
+    "download": "",
     "mirrors": []
   },
   {
@@ -10038,8 +10064,13 @@
     ],
     "link": "https://gamepciso.com/call-duty-4-modern-warfare-download-free/",
     "date": "2007-04-24T11:26:38",
-    "download": "https://www.filecrypt.cc/Container/A929D5F187.html",
-    "mirrors": []
+    "download": "https://www.filecrypt.cc/Container/E250F7F24A.html",
+    "mirrors": [
+      {
+        "label": "Datanodes",
+        "url": "https://www.filecrypt.cc/Container/E250F7F24A.html"
+      }
+    ]
   },
   {
     "id": "nioh-complete-edition",
