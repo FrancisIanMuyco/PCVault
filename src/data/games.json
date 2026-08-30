@@ -6832,7 +6832,28 @@
     "link": "https://gamepciso.com/satisfactory-download-free/",
     "date": "2024-09-11T12:00:44",
     "download": "https://www.filecrypt.cc/Container/3CD571BFCA.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/3CD571BFCA.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/42EFE6FCAE.html"
+      },
+      {
+        "label": "FileQ",
+        "url": "https://www.filecrypt.cc/Container/E66247B6B6.html"
+      },
+      {
+        "label": "Datanodes",
+        "url": "https://www.filecrypt.cc/Container/40E2CC7657.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/B18B389A19.html"
+      }
+    ]
   },
   {
     "id": "palworld",
@@ -7751,7 +7772,24 @@
     "link": "https://gamepciso.com/stray-download-free/",
     "date": "2022-07-20T09:41:17",
     "download": "https://www.filecrypt.cc/Container/3B007F78B5.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/3B007F78B5.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/5BE8B9046F.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://www.filecrypt.cc/Container/EBC961AE62.html"
+      },
+      {
+        "label": "Onedrive",
+        "url": "https://filecrypt.cc/Container/6ED10244E6.html"
+      }
+    ]
   },
   {
     "id": "a-way-out",
@@ -8910,7 +8948,20 @@
     "link": "https://gamepciso.com/alan-wake-download-free/",
     "date": "2017-08-08T14:16:09",
     "download": "https://www.filecrypt.cc/Container/47351B022B.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/47351B022B.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/D3C400997F.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://www.filecrypt.cc/Container/4B79D397B3.html"
+      }
+    ]
   },
   {
     "id": "aggelos-2",
@@ -9979,8 +10030,17 @@
     ],
     "link": "https://gamepciso.com/nioh-complete-edition-download-free/",
     "date": "2018-02-05T04:10:02",
-    "download": "https://www.filecrypt.cc/Container/09D2846BF7.html",
-    "mirrors": []
+    "download": "https://www.filecrypt.cc/Container/98E7F576A7.html",
+    "mirrors": [
+      {
+        "label": "Megaup",
+        "url": "https://www.filecrypt.cc/Container/98E7F576A7.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.co/Container/24B98E4B8E.html"
+      }
+    ]
   },
   {
     "id": "nioh-2-the-complete-edition",
@@ -10006,8 +10066,25 @@
     ],
     "link": "https://gamepciso.com/nioh-2-the-complete-edition-download-free/",
     "date": "2021-03-19T10:47:51",
-    "download": "https://www.filecrypt.cc/Container/D9A205CE2E.html",
-    "mirrors": []
+    "download": "https://www.filecrypt.cc/Container/C6569EDBE7.html",
+    "mirrors": [
+      {
+        "label": "Fuckingfast",
+        "url": "https://www.filecrypt.cc/Container/C6569EDBE7.html"
+      },
+      {
+        "label": "Onedrive",
+        "url": "https://filecrypt.cc/Container/22BB64F5A9.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.co/Container/02DE6348B8.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.co/Container/F12CA07965.html"
+      }
+    ]
   },
   {
     "id": "nioh-3",
