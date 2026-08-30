@@ -9814,7 +9814,36 @@
     "link": "https://gamepciso.com/call-of-duty-wwii-download-free/",
     "date": "2020-12-18T03:25:38",
     "download": "https://www.filecrypt.cc/Container/6C182B49DE.html",
-    "mirrors": []
+    "mirrors": [
+      {
+        "label": "Google",
+        "url": "https://filecrypt.co/Container/1A0DE28714.html"
+      },
+      {
+        "label": "Mirror",
+        "url": "https://www.filecrypt.cc/Container/5D943FA57E.html"
+      },
+      {
+        "label": "Mega",
+        "url": "https://www.filecrypt.cc/Container/6B12C067A0.html"
+      },
+      {
+        "label": "Megaup",
+        "url": "https://www.filecrypt.cc/Container/9A4246BE77.html"
+      },
+      {
+        "label": "Onedrive",
+        "url": "https://filecrypt.co/Container/86A894AFF9.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.co/Container/B6D62951BF.html?mirror=1"
+      },
+      {
+        "label": "Uptobox",
+        "url": "https://filecrypt.co/Container/B6D62951BF.html"
+      }
+    ]
   },
   {
     "id": "call-of-duty-modern-warfare-2-campaign-remastered",
@@ -10007,8 +10036,45 @@
     ],
     "link": "https://gamepciso.com/call-of-duty-download-free/",
     "date": "2017-03-21T03:12:58",
-    "download": "https://www.filecrypt.cc/Container/6B89CC2E7C.html",
-    "mirrors": []
+    "download": "https://gofile.io/d/ZgZqaH",
+    "mirrors": [
+      {
+        "label": "Gofile",
+        "url": "https://gofile.io/d/ZgZqaH"
+      },
+      {
+        "label": "Single Link",
+        "url": "https://gofile.io/d/p2Ogyp"
+      },
+      {
+        "label": "Single Link",
+        "url": "https://1fichier.com/?pswutjxtcwiavvzj5ak5"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/53103C1343.html"
+      },
+      {
+        "label": "Megaup",
+        "url": "https://filecrypt.cc/Container/3D96EEC40D.html"
+      },
+      {
+        "label": "Buzzheavier",
+        "url": "https://filecrypt.cc/Container/D171B5EAF6.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://filecrypt.cc/Container/73253F6010.html"
+      },
+      {
+        "label": "Bowfile",
+        "url": "https://filecrypt.cc/Container/A16FFE344C.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.cc/Container/D6BD98556B.html"
+      }
+    ]
   },
   {
     "id": "call-of-duty-black-ops-3",
