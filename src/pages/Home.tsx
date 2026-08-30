@@ -1,8 +1,9 @@
 import { useMemo, useState } from 'react'
 import { games, allGenres } from '../data/games'
-import Navbar from '../components/Navbar'
+import Navbar, { LogoMark } from '../components/Navbar'
 import Hero from '../components/Hero'
 import GameGrid from '../components/GameGrid'
+import Rail from '../components/Rail'
 import LatestFeed from '../components/LatestFeed'
 import CheckedBadge from '../components/CheckedBadge'
 import CategoryBrowse from '../components/CategoryBrowse'
@@ -13,6 +14,7 @@ export default function Home() {
   const [genre, setGenre] = useState('All')
   const [sort, setSort] = useState('default')
   const [favOnly, setFavOnly] = useState(false)
+  const [searchOpen, setSearchOpen] = useState(false)
   const { favs, toggle } = useFavorites()
 
   const genres = useMemo(() => allGenres(games), [])
@@ -35,40 +37,117 @@ export default function Home() {
     })
   }, [query, genre, favOnly, favs])
 
+  const scrollTop = () => window.scrollTo({ top: 0, behavior: 'smooth' })
+  const scrollTo = (id: string) => document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+
   return (
     <>
       <Navbar
         games={filtered.length}
-        query={query}
         onQuery={setQuery}
-        genre={genre}
-        onGenre={setGenre}
-        genres={genres}
-        counts={counts}
+        favs={favs}
+        favOnly={favOnly}
+        onFavOnly={(b) => {
+          setFavOnly(b)
+          scrollTop()
+        }}
+        searchOpen={searchOpen}
+        onSearchOpen={setSearchOpen}
       />
       <main>
         <div className="badge-row">
           <CheckedBadge />
         </div>
-        {!query && genre === 'All' && !favOnly && <Hero game={featured} />}
-        {!query && !favOnly && (
-          <CategoryBrowse genres={genres} counts={counts} total={games.length} active={genre} onSelect={setGenre} />
+
+        {!query && genre === 'All' && !favOnly && (
+          <Hero game={featured} onFav={toggle} fav={favs.includes(featured?.id ?? '')} />
         )}
-        <GameGrid
-          games={filtered}
-          title={genre === 'All' ? 'All Games' : genre}
-          favs={favs}
-          onToggleFav={toggle}
-          sort={sort}
-          onSort={setSort}
-          favOnly={favOnly}
-          onFavOnly={setFavOnly}
-        />
+
+        {!query && !favOnly && (
+          <section id="genres">
+            <CategoryBrowse genres={genres} counts={counts} total={games.length} active={genre} onSelect={setGenre} />
+          </section>
+        )}
+
+        {!query && genre === 'All' && !favOnly && <Rail games={games} />}
+
+        <section id="explore">
+          <GameGrid
+            games={filtered}
+            title={genre === 'All' ? 'Explore PC Games' : genre}
+            favs={favs}
+            onToggleFav={toggle}
+            sort={sort}
+            onSort={setSort}
+            favOnly={favOnly}
+            onFavOnly={(b) => {
+              setFavOnly(b)
+              scrollTop()
+            }}
+          />
+        </section>
+
         {!query && genre === 'All' && !favOnly && <LatestFeed />}
+
         <footer className="footer">
-          PCVault &#183; Scraped with Hunter Toolbox from gamepciso.com &#183; Direct + mirror links &#183; Links auto-verified every scan
+          <div className="footer-inner">
+            <div className="footer-top">
+              <div>
+                <div className="footer-brand">
+                  <LogoMark size={26} />
+                  <span className="nav-brand-word">
+                    PC<em>VAULT</em>
+                  </span>
+                </div>
+                <p className="footer-tag">A clean, cinematic library of repack downloads. Discover PC games through organized cover art, trailers and verified links.</p>
+              </div>
+              <nav className="footer-links" aria-label="Footer">
+                <button type="button" onClick={scrollTop}>Discover</button>
+                <button type="button" onClick={() => scrollTo('latest')}>Latest</button>
+                <button type="button" onClick={() => scrollTo('genres')}>Genres</button>
+                <button type="button" onClick={() => {
+                  setFavOnly(true)
+                  scrollTop()
+                }}>Favorites</button>
+                <button type="button" onClick={() => scrollTo('explore')}>Browse All</button>
+              </nav>
+            </div>
+            <div className="footer-bottom">
+              PCVault &#183; Fan-made library &#183; Links auto-verified on every scan &#183; Not affiliated with any publisher
+            </div>
+          </div>
         </footer>
       </main>
+
+      <nav className="bottom-nav" aria-label="Mobile navigation">
+        <button type="button" className="bottom-nav-btn active" onClick={scrollTop}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M3 12 12 4l9 8M5 10v10h5v-6h4v6h5V10" strokeLinejoin="round" /></svg>
+          <span>Home</span>
+          <span className="dot" />
+        </button>
+        <button type="button" className="bottom-nav-btn" onClick={() => scrollTo('explore')}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5" /><rect x="14" y="3" width="7" height="7" rx="1.5" /><rect x="3" y="14" width="7" height="7" rx="1.5" /><rect x="14" y="14" width="7" height="7" rx="1.5" /></svg>
+          <span>Browse</span>
+          <span className="dot" />
+        </button>
+        <button type="button" className="bottom-nav-btn" onClick={() => setSearchOpen(true)}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" strokeLinecap="round" /></svg>
+          <span>Search</span>
+          <span className="dot" />
+        </button>
+        <button
+          type="button"
+          className={`bottom-nav-btn${favOnly ? ' active' : ''}`}
+          onClick={() => {
+            setFavOnly(!favOnly)
+            scrollTop()
+          }}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill={favOnly ? '#ff5f7a' : 'none'} stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="M12 20s-7-4.6-9.2-9A5 5 0 0 1 12 6a5 5 0 0 1 9.2 5c-2.2 4.4-9.2 9-9.2 9Z" strokeLinejoin="round" /></svg>
+          <span>Favorites</span>
+          <span className="dot" />
+        </button>
+      </nav>
     </>
   )
 }

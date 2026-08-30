@@ -6,7 +6,10 @@ export default function LatestFeed() {
   if (!latest || !latest.length) return null
   return (
     <section className="page-section">
-      <h2 className="section-title">New Repacks</h2>
+      <div className="mirror-head">
+        <h2 className="section-title">New Repacks</h2>
+        <span className="mirror-head-count">from gamepciso.com</span>
+      </div>
       <ul className="latest">
         {latest.slice(0, 6).map((e) => (
           <li key={e.link}>

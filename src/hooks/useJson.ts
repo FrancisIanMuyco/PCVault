@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react'
 
-export function useJson<T>(url: string): T | null {
+export function useJson<T>(url: string, base = import.meta.env.BASE_URL): T | null {
   const [data, setData] = useState<T | null>(null)
+  const resolved = url.startsWith('/') ? base.replace(/\/$/, '') + url : url
 
   useEffect(() => {
     let on = true
-    fetch(url)
+    fetch(resolved)
       .then((r) => r.json())
       .then((d: T) => {
         if (on) setData(d)
@@ -16,7 +17,7 @@ export function useJson<T>(url: string): T | null {
     return () => {
       on = false
     }
-  }, [url])
+  }, [resolved])
 
   return data
 }

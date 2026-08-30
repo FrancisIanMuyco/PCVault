@@ -1,29 +1,37 @@
 :root {
-  --bg: #0d1117;
-  --bg-elev: #161b22;
-  --bg-card: #1c232d;
-  --bg-hover: #232d3a;
-  --border: #2a3440;
-  --border-strong: #384557;
-  --text: #b7bfc9;
-  --text-dim: #76808d;
-  --text-h: #f3f6f9;
-  --accent: #66c0f4;
-  --accent-hi: #8fd0f7;
-  --accent-bg: rgba(102, 192, 244, 0.12);
-  --ok: #a1cd44;
-  --mid: #eec12d;
-  --low: #c0392b;
-  --good: #66c0f4;
-  --shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  --main: #06080c;
+  --bg2: #090d13;
+  --card: #10151d;
+  --elev: #151c26;
+  --elev2: #1a2330;
+  --border: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.14);
+  --text: #f6f8fb;
+  --text-2: #8e99a9;
+  --muted: #626e7e;
+  --accent: #43c6f4;
+  --accent-hi: #7fdcff;
+  --accent-bg: rgba(67, 198, 244, 0.12);
+  --accent-2: #8c68ff;
+  --accent-2-bg: rgba(140, 104, 255, 0.14);
+  --ok: #50d890;
+  --danger: #ff5f7a;
+  --skeleton-a: #141a24;
+  --skeleton-b: #1c2634;
 
   --sans: system-ui, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   --mono: ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace;
 
+  --radius: 16px;
+  --radius-sm: 10px;
+
+  --shadow: 0 20px 50px rgba(0, 0, 0, 0.55);
+  --shadow-sm: 0 6px 18px rgba(0, 0, 0, 0.35);
+
   font: 15px/1.5 var(--sans);
   color-scheme: dark;
-  color: var(--text);
-  background: var(--bg);
+  color: var(--text-2);
+  background: var(--main);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -38,26 +46,31 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: var(--bg);
+  background: var(--main);
   min-height: 100svh;
 }
 
 #root {
   min-height: 100svh;
   background:
-    radial-gradient(1200px 500px at 50% -100px, rgba(66, 133, 244, 0.12), transparent 60%),
-    var(--bg);
+    radial-gradient(1100px 600px at 12% -6%, rgba(67, 198, 244, 0.08), transparent 60%),
+    radial-gradient(900px 500px at 88% 8%, rgba(140, 104, 255, 0.06), transparent 60%),
+    radial-gradient(1200px 800px at 50% 120%, rgba(43, 125, 180, 0.05), transparent 60%),
+    var(--main);
 }
 
 body::-webkit-scrollbar {
   width: 10px;
 }
 body::-webkit-scrollbar-track {
-  background: var(--bg);
+  background: var(--main);
 }
 body::-webkit-scrollbar-thumb {
-  background: var(--border-strong);
+  background: #26313e;
   border-radius: 5px;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: #32404f;
 }
 
 h1,
@@ -87,4 +100,10 @@ a {
 }
 a:hover {
   color: var(--accent-hi);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
 }

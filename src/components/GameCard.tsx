@@ -10,8 +10,15 @@ interface Props {
   i?: number
 }
 
+const NEW_DAYS = 60
+
 export default function GameCard({ game, fav, onToggleFav, i }: Props) {
   const navigate = useNavigate()
+  const isNew = (() => {
+    const d = game.date ? Date.parse(game.date) : NaN
+    return !Number.isNaN(d) && Date.now() - d < NEW_DAYS * 86400000
+  })()
+
   return (
     <article
       className="game-card"
@@ -21,7 +28,8 @@ export default function GameCard({ game, fav, onToggleFav, i }: Props) {
       <button
         type="button"
         className={`fav-btn${fav ? ' active' : ''}`}
-        aria-label={fav ? 'Remove from favorites' : 'Add to favorites'}
+        aria-label={fav ? `Remove ${game.title} from favorites` : `Add ${game.title} to favorites`}
+        aria-pressed={fav}
         onClick={(e) => {
           e.stopPropagation()
           onToggleFav(game.id)
@@ -29,8 +37,10 @@ export default function GameCard({ game, fav, onToggleFav, i }: Props) {
       >
         &#9825;
       </button>
+      {isNew && <span className="badge-flag">NEW</span>}
       <div className="card-cover">
         <GameCover game={game} />
+        <div className="cover-shade" aria-hidden="true" />
         <div className="card-hover">
           <button
             type="button"
@@ -40,7 +50,7 @@ export default function GameCard({ game, fav, onToggleFav, i }: Props) {
               navigate(`/game/${game.id}`)
             }}
           >
-            Get {game.title}
+            View Game
           </button>
         </div>
       </div>
@@ -58,12 +68,10 @@ export default function GameCard({ game, fav, onToggleFav, i }: Props) {
         </div>
         <div className="card-meta">
           <span className="year-badge">{game.year}</span>
-          <span className="card-sub">
-            {game.mirrors[0] ? `via ${game.mirrors[0].label}` : 'direct download'}
-          </span>
+          <span className="card-sub">{game.mirrors[0] ? `via ${game.mirrors[0].label}` : 'direct download'}</span>
         </div>
         <div className="card-footer">
-          {game.size && <span className="size">{game.size}</span>}
+          <span className="size">{game.size ?? '—'}</span>
           <span className="downloads">{game.mirrors.length + 1} links</span>
         </div>
       </div>
