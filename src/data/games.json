@@ -5780,113 +5780,6 @@
     ]
   },
   {
-    "id": "nioh-3",
-    "title": "Nioh 2",
-    "appid": "1325200",
-    "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256821631/movie_max.mp4",
-    "year": 2026,
-    "genres": [
-      "Action"
-    ],
-    "languages": "Multi",
-    "size": "",
-    "password": "www.ovagames.com",
-    "repack": "",
-    "history": [],
-    "desc": "Conquer the Crucible, Become Shogun.",
-    "cover": "/covers/nioh-3-poster.jpg",
-    "wallpaper": "/covers/nioh-3-wide.jpg",
-    "screenshots": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FqCAGr-9kaWIpqjFor3it5eiPKqvqnmwSc8o195bd-Fpx_50j2XKzhY57izPVZHYERx6euSE0AbyVJRZWfBJSwv0fYI5SU6o9GsF7g1Fw7qZsYzJxrg9tKoX_2upaG7lRRKojagulfOKz50ePmMdSr9a3pRYPT7AiSrDE7Boj-3BBLwwdtHB6EZ9vRDt/s1600/2a.jpg",
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHMFbB33MQrjX8bkk9a64W8K3GhldezWt772Y1PtnaMy8YrnsEwGstor0fit5gEBfsTLX3u8Hbz1UfEh323Zk-37yE-xOfSGHxqYazoRIhFctah6KQ8yEc2fdVSy5Dfv6fFQUPw5dH08DLpwjCznj20V6LE7VJQfA9vRHu3IgUJTc0kSEToXJZh4gN7f1L/s1600/2b.jpg"
-    ],
-    "link": "https://gamepciso.com/nioh-3-download-free/",
-    "date": "2026-02-06T19:03:36",
-    "download": "https://www.filecrypt.cc/Container/FE096B72B4.html",
-    "mirrors": [
-      {
-        "label": "Mediafire",
-        "url": "https://www.filecrypt.cc/Container/FE096B72B4.html"
-      },
-      {
-        "label": "Google",
-        "url": "https://www.filecrypt.cc/Container/01CECC8358.html"
-      },
-      {
-        "label": "FileQ",
-        "url": "https://www.filecrypt.cc/Container/F10088ED94.html"
-      },
-      {
-        "label": "Datanodes",
-        "url": "https://www.filecrypt.cc/Container/5F5270CA06.html"
-      },
-      {
-        "label": "Send",
-        "url": "https://filecrypt.cc/Container/41BC4458EF.html"
-      },
-      {
-        "label": "Megaup",
-        "url": "https://filecrypt.cc/Container/C231160138.html"
-      },
-      {
-        "label": "Gofile",
-        "url": "https://gofile.io/d/j3YWyT"
-      },
-      {
-        "label": "Buzzheavier",
-        "url": "https://filecrypt.cc/Container/409241E432.html"
-      },
-      {
-        "label": "Pixeldrain",
-        "url": "https://filecrypt.cc/Container/303E3D6F6E.html"
-      },
-      {
-        "label": "Ddownload",
-        "url": "https://filecrypt.cc/Container/43444DC37A.html"
-      },
-      {
-        "label": "Bowfile",
-        "url": "https://filecrypt.cc/Container/3FA24F1826.html"
-      },
-      {
-        "label": "Vikingfile",
-        "url": "https://filecrypt.cc/Container/7FF3FD5CCF.html"
-      },
-      {
-        "label": "Single Link",
-        "url": "https://vikingfile.com/f/cpb4IcYXcw"
-      },
-      {
-        "label": "1fichier",
-        "url": "https://filecrypt.cc/Container/D6D47DD0D9.html"
-      },
-      {
-        "label": "Torrent",
-        "url": "https://1fichier.com/?o62jvmho11bpidtnra7s"
-      },
-      {
-        "label": "Mirror 1",
-        "url": "https://pixeldrain.com/u/QtA7rWZf"
-      },
-      {
-        "label": "Mirror 2",
-        "url": "https://send.now/dhsbtmvvvpy7"
-      },
-      {
-        "label": "Mirror 3",
-        "url": "https://gofile.io/d/hIXYmP"
-      },
-      {
-        "label": "Mirror 4",
-        "url": "https://megaup.net/f354206600da836af614649a859522b7/Nioh_3_(v1.03_+_9_DLC)_[Portable].torrent"
-      },
-      {
-        "label": "Mirror 5",
-        "url": "https://vikingfile.com/f/h3wtgcsVIt"
-      }
-    ]
-  },
-  {
     "id": "bayonetta",
     "title": "Bayonetta",
     "appid": "460790",
@@ -13011,6 +12904,213 @@
       {
         "label": "Datanodes",
         "url": "https://www.filecrypt.cc/Container/E250F7F24A.html"
+      }
+    ]
+  },
+  {
+    "id": "nioh-complete-edition",
+    "title": "Nioh: Complete Edition",
+    "appid": "485510",
+    "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256700248/movie_max.mp4",
+    "year": 2018,
+    "genres": [
+      "Action"
+    ],
+    "languages": "Multi",
+    "size": "",
+    "password": "www.ovagames.com",
+    "repack": "",
+    "history": [],
+    "desc": "Ready to die? Experience the newest brutal action game from Team NINJA and Koei Tecmo Games. In the age of samurai, a lone traveler lands on the shores of Japan. He must fight his way through the vicious warriors and supernatural Yokai that infest the land in order to find that which he seeks.",
+    "cover": "/covers/nioh-complete-edition-poster.jpg",
+    "wallpaper": "/covers/nioh-complete-edition-wide.jpg",
+    "screenshots": [
+      "https://4.bp.blogspot.com/-HveJJd51Q8U/WnfYNt7VzyI/AAAAAAAAkPA/slmLypg4ZJYmQbonXLvfq5FbnbzWUE1kACLcBGAs/s1600/116.jpg",
+      "https://1.bp.blogspot.com/-ppRh8ytVCrE/WnfYREq8RpI/AAAAAAAAkPE/vf8bcPoUAJAc4QO2dipa2yXs93f2xWMgQCLcBGAs/s1600/116a.jpg",
+      "https://4.bp.blogspot.com/-_ggoizeXAdg/WnfYROumsJI/AAAAAAAAkPI/0v3_L2zIVRUB-TbwKKE2xnd8nPC_UGrqwCLcBGAs/s1600/116b.jpg"
+    ],
+    "link": "https://gamepciso.com/nioh-complete-edition-download-free/",
+    "date": "2018-02-05T04:10:02",
+    "download": "https://www.filecrypt.cc/Container/09D2846BF7.html",
+    "mirrors": [
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/09D2846BF7.html"
+      },
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/D9A55CECC5.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://www.filecrypt.cc/Container/41EBC38D0C.html"
+      },
+      {
+        "label": "Megaup",
+        "url": "https://www.filecrypt.cc/Container/98E7F576A7.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.co/Container/24B98E4B8E.html"
+      }
+    ]
+  },
+  {
+    "id": "nioh-2-the-complete-edition",
+    "title": "Nioh 2",
+    "appid": "1325240",
+    "trailer": "",
+    "year": 2021,
+    "genres": [
+      "Action"
+    ],
+    "languages": "Multi",
+    "size": "",
+    "password": "www.ovagames.com",
+    "repack": "",
+    "history": [],
+    "desc": "UNLEASH YOUR DARKNESS",
+    "cover": "/covers/nioh-2-the-complete-edition-poster.jpg",
+    "wallpaper": "/covers/nioh-2-the-complete-edition-wide.jpg",
+    "screenshots": [
+      "https://1.bp.blogspot.com/-VPuRgrQpV1g/YB1f11d0wyI/AAAAAAAAbeo/drYAbhV7yhIVQF1jd-s7S8_12JgBtYSRwCLcBGAsYHQ/s323/5.jpg",
+      "https://1.bp.blogspot.com/-muSFqz1NIvQ/YB1giNeWP2I/AAAAAAAAbf8/BRQmJjFkLsUMngZE4eNIHZeqv3aEN3lzgCLcBGAsYHQ/s0/5a.jpg",
+      "https://1.bp.blogspot.com/-rjU_Eew_dPg/YB1giSn5R5I/AAAAAAAAbgA/ZOtxbi6fmM8Fs_ZwQyfYPXc5KuOC5sYqACLcBGAsYHQ/s0/5b.jpg"
+    ],
+    "link": "https://gamepciso.com/nioh-2-the-complete-edition-download-free/",
+    "date": "2021-03-19T10:47:51",
+    "download": "https://www.filecrypt.cc/Container/D9A205CE2E.html",
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/D9A205CE2E.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/93FC8EDB32.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://www.filecrypt.cc/Container/1A963505C2.html"
+      },
+      {
+        "label": "Fuckingfast",
+        "url": "https://www.filecrypt.cc/Container/C6569EDBE7.html"
+      },
+      {
+        "label": "Onedrive",
+        "url": "https://filecrypt.cc/Container/22BB64F5A9.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.co/Container/02DE6348B8.html"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.co/Container/F12CA07965.html"
+      }
+    ]
+  },
+  {
+    "id": "nioh-3",
+    "title": "Nioh 3",
+    "appid": "0",
+    "trailer": "",
+    "year": 2026,
+    "genres": [
+      "Action"
+    ],
+    "languages": "Multi",
+    "size": "",
+    "password": "www.ovagames.com",
+    "repack": "",
+    "history": [],
+    "desc": "Conquer the Crucible, Become Shogun.",
+    "cover": "/covers/nioh-3-poster.jpg",
+    "wallpaper": "/covers/nioh-3-wide.jpg",
+    "screenshots": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FqCAGr-9kaWIpqjFor3it5eiPKqvqnmwSc8o195bd-Fpx_50j2XKzhY57izPVZHYERx6euSE0AbyVJRZWfBJSwv0fYI5SU6o9GsF7g1Fw7qZsYzJxrg9tKoX_2upaG7lRRKojagulfOKz50ePmMdSr9a3pRYPT7AiSrDE7Boj-3BBLwwdtHB6EZ9vRDt/s1600/2a.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHMFbB33MQrjX8bkk9a64W8K3GhldezWt772Y1PtnaMy8YrnsEwGstor0fit5gEBfsTLX3u8Hbz1UfEh323Zk-37yE-xOfSGHxqYazoRIhFctah6KQ8yEc2fdVSy5Dfv6fFQUPw5dH08DLpwjCznj20V6LE7VJQfA9vRHu3IgUJTc0kSEToXJZh4gN7f1L/s1600/2b.jpg"
+    ],
+    "link": "https://gamepciso.com/nioh-3-download-free/",
+    "date": "2026-02-06T19:03:36",
+    "download": "https://www.filecrypt.cc/Container/FE096B72B4.html",
+    "mirrors": [
+      {
+        "label": "Mediafire",
+        "url": "https://www.filecrypt.cc/Container/FE096B72B4.html"
+      },
+      {
+        "label": "Google",
+        "url": "https://www.filecrypt.cc/Container/01CECC8358.html"
+      },
+      {
+        "label": "FileQ",
+        "url": "https://www.filecrypt.cc/Container/F10088ED94.html"
+      },
+      {
+        "label": "Datanodes",
+        "url": "https://www.filecrypt.cc/Container/5F5270CA06.html"
+      },
+      {
+        "label": "Send",
+        "url": "https://filecrypt.cc/Container/41BC4458EF.html"
+      },
+      {
+        "label": "Megaup",
+        "url": "https://filecrypt.cc/Container/C231160138.html"
+      },
+      {
+        "label": "Gofile",
+        "url": "https://gofile.io/d/j3YWyT"
+      },
+      {
+        "label": "Buzzheavier",
+        "url": "https://filecrypt.cc/Container/409241E432.html"
+      },
+      {
+        "label": "Pixeldrain",
+        "url": "https://filecrypt.cc/Container/303E3D6F6E.html"
+      },
+      {
+        "label": "Ddownload",
+        "url": "https://filecrypt.cc/Container/43444DC37A.html"
+      },
+      {
+        "label": "Bowfile",
+        "url": "https://filecrypt.cc/Container/3FA24F1826.html"
+      },
+      {
+        "label": "Vikingfile",
+        "url": "https://filecrypt.cc/Container/7FF3FD5CCF.html"
+      },
+      {
+        "label": "Single Link",
+        "url": "https://vikingfile.com/f/cpb4IcYXcw"
+      },
+      {
+        "label": "1fichier",
+        "url": "https://filecrypt.cc/Container/D6D47DD0D9.html"
+      },
+      {
+        "label": "Torrent",
+        "url": "https://1fichier.com/?o62jvmho11bpidtnra7s"
+      },
+      {
+        "label": "Mirror 1",
+        "url": "https://pixeldrain.com/u/QtA7rWZf"
+      },
+      {
+        "label": "Mirror 2",
+        "url": "https://send.now/dhsbtmvvvpy7"
+      },
+      {
+        "label": "Mirror 3",
+        "url": "https://gofile.io/d/hIXYmP"
+      },
+      {
+        "label": "Mirror 5",
+        "url": "https://vikingfile.com/f/h3wtgcsVIt"
       }
     ]
   }
