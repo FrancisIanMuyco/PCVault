@@ -10522,7 +10522,8 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10657,7 +10658,8 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10768,7 +10770,9 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -10847,7 +10851,9 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10882,7 +10888,7 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Racing"
     ],
     "languages": "Multi",
     "size": "",
@@ -10921,7 +10927,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257351235/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Simulation"
+      "Sports"
     ],
     "languages": "Multi",
     "size": "",
@@ -11007,6 +11013,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257301100/movie_max.mp4",
     "year": 2026,
     "genres": [
+      "Sports",
       "Fighting"
     ],
     "languages": "Multi",
@@ -11171,7 +11178,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257398564/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Simulation"
+      "Sports"
     ],
     "languages": "Multi",
     "size": "",
@@ -11265,6 +11272,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257344120/movie_max.mp4",
     "year": 2025,
     "genres": [
+      "Sports",
       "Simulation"
     ],
     "languages": "Multi",
