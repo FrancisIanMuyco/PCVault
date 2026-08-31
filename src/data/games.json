@@ -6,7 +6,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256889452/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -129,7 +130,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257082775/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -213,6 +216,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256987424/movie_max.mp4",
     "year": 2023,
     "genres": [
+      "RPG",
       "Adventure"
     ],
     "languages": "Multi",
@@ -281,7 +285,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256864004/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -324,7 +329,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256767979/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -416,7 +423,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256806899/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -476,7 +484,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256915117/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -535,7 +544,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256930503/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -626,7 +637,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256875134/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Racing",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -717,7 +729,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256927229/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "RPG"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -796,7 +810,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257109739/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "Open World",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -920,7 +936,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256672927/movie_max.mp4",
     "year": 2016,
     "genres": [
-      "RPG"
+      "RPG",
+      "Open World",
+      "Action"
     ],
     "languages": "Multi",
     "size": "",
@@ -992,7 +1010,10 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257202269/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World",
+      "Stealth"
     ],
     "languages": "Multi",
     "size": "",
@@ -1083,7 +1104,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257409766/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -1186,7 +1209,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257234664/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -1269,7 +1293,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257302141/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -1352,7 +1377,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257352127/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -1439,7 +1464,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257229489/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "RPG"
+      "RPG",
+      "Action"
     ],
     "languages": "Multi",
     "size": "",
@@ -1538,7 +1564,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257283350/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -1609,7 +1636,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257388269/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Shooter",
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -1700,7 +1729,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257230865/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Roguelike"
     ],
     "languages": "Multi",
     "size": "",
@@ -1787,6 +1818,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257284256/movie_max.mp4",
     "year": 2025,
     "genres": [
+      "RPG",
       "Action"
     ],
     "languages": "Multi",
@@ -1878,7 +1910,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257323188/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Action"
+      "Survival",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -1917,7 +1951,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257344384/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Racing"
+      "Racing",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -1996,7 +2031,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257293410/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Action"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -2087,7 +2123,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257226480/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "Stealth",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -2269,7 +2307,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257361435/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -2332,7 +2370,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256675152/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2372,7 +2412,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256927026/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2467,6 +2509,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/81721/movie_max.mp4",
     "year": 2017,
     "genres": [
+      "Shooter",
       "Action"
     ],
     "languages": "Multi",
@@ -2519,7 +2562,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256686983/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2555,7 +2600,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256730989/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2599,7 +2646,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256917310/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2663,7 +2712,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256712971/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Shooter",
+      "Action",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2707,7 +2758,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256941288/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Shooter",
+      "Action",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2742,7 +2795,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256766097/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -2882,7 +2936,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256663321/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -2961,7 +3016,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256835018/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -2993,7 +3050,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256899640/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -3025,7 +3084,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256784014/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Adventure",
+      "Narrative"
     ],
     "languages": "Multi",
     "size": "",
@@ -3069,7 +3129,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257007287/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -3168,7 +3230,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256765709/movie_max.mp4",
     "year": 2019,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -3228,7 +3291,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256957450/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -3331,6 +3395,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256786300/movie_max.mp4",
     "year": 2023,
     "genres": [
+      "Horror",
       "Action"
     ],
     "languages": "Multi",
@@ -3430,7 +3495,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256686491/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "Narrative"
     ],
     "languages": "Multi",
     "size": "",
@@ -3470,7 +3536,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/81912/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "Stealth",
+      "Immersive Sim"
     ],
     "languages": "Multi",
     "size": "",
@@ -3537,7 +3605,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256673169/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "Stealth",
+      "Immersive Sim"
     ],
     "languages": "Multi",
     "size": "",
@@ -3564,7 +3634,7 @@
     "trailer": "",
     "year": 2020,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -3612,7 +3682,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257182101/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -3688,7 +3758,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/2031945/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -3727,7 +3797,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256664074/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Simulation"
+      "Simulation",
+      "Action"
     ],
     "languages": "Multi",
     "size": "",
@@ -3774,6 +3845,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257408791/movie_max.mp4",
     "year": 2021,
     "genres": [
+      "Stealth",
       "Action"
     ],
     "languages": "Multi",
@@ -3858,7 +3930,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256741826/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Horror"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -3905,6 +3978,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256998128/movie_max.mp4",
     "year": 2023,
     "genres": [
+      "Horror",
       "Action"
     ],
     "languages": "Multi",
@@ -4008,6 +4082,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256825272/movie_max.mp4",
     "year": 2021,
     "genres": [
+      "Horror",
       "Action"
     ],
     "languages": "Multi",
@@ -4056,7 +4131,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256929315/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -4155,7 +4231,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/2029178/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Horror"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -4199,7 +4276,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256708855/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Adventure"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -4239,7 +4317,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256859910/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -4295,7 +4374,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257181429/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -4374,6 +4454,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256769762/movie_max.mp4",
     "year": 2019,
     "genres": [
+      "Adventure",
       "Action"
     ],
     "languages": "Multi",
@@ -4429,6 +4510,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256915012/movie_max.mp4",
     "year": 2022,
     "genres": [
+      "Adventure",
       "Action"
     ],
     "languages": "Multi",
@@ -4504,7 +4586,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256806956/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Platformer"
     ],
     "languages": "Multi",
     "size": "",
@@ -4588,7 +4671,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256981053/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "Platformer"
     ],
     "languages": "Multi",
     "size": "",
@@ -4731,7 +4815,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256998897/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -4818,7 +4903,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257048125/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -4969,7 +5055,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256973335/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -5120,6 +5207,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256659154/movie_max.mp4",
     "year": 2017,
     "genres": [
+      "Action",
       "RPG"
     ],
     "languages": "Multi",
@@ -5179,7 +5267,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256814526/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Hack and Slash"
     ],
     "languages": "Multi",
     "size": "",
@@ -5213,7 +5302,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256682845/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "Hack and Slash"
     ],
     "languages": "Multi",
     "size": "",
@@ -5240,7 +5330,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257363387/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Fighting"
     ],
     "languages": "Multi",
     "size": "",
@@ -5315,7 +5405,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257032828/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Fighting"
     ],
     "languages": "Multi",
     "size": "",
@@ -5402,7 +5492,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256961527/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Fighting"
     ],
     "languages": "Multi",
     "size": "",
@@ -5473,7 +5563,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256744000/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -5513,7 +5604,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257243385/movie_max.mp4",
     "year": 2019,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -5553,6 +5645,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257067717/movie_max.mp4",
     "year": 2024,
     "genres": [
+      "RPG",
       "Action"
     ],
     "languages": "Multi",
@@ -5624,6 +5717,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256997656/movie_max.mp4",
     "year": 2024,
     "genres": [
+      "RPG",
       "Adventure"
     ],
     "languages": "Multi",
@@ -5667,7 +5761,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256911919/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "RPG",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -5762,7 +5857,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256827872/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "RPG"
+      "RPG",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -5834,7 +5930,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257224097/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "RPG",
+      "Action",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -5914,7 +6012,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256694830/movie_max.mp4",
     "year": 2019,
     "genres": [
-      "RPG"
+      "RPG",
+      "Strategy"
     ],
     "languages": "Multi",
     "size": "",
@@ -5982,7 +6081,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257071579/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Adventure"
+      "RPG",
+      "Strategy"
     ],
     "languages": "Multi",
     "size": "",
@@ -6062,7 +6162,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256947687/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "RPG"
+      "RPG",
+      "Strategy"
     ],
     "languages": "Multi",
     "size": "",
@@ -6098,7 +6199,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256801252/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -6154,7 +6256,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257204779/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -6221,7 +6324,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256679401/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Platformer",
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -6265,7 +6370,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256755089/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "Platformer",
+      "Roguelike"
     ],
     "languages": "Multi",
     "size": "",
@@ -6321,6 +6428,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256894191/movie_max.mp4",
     "year": 2019,
     "genres": [
+      "Platformer",
       "Action"
     ],
     "languages": "Multi",
@@ -6373,7 +6481,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256779902/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Platformer",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -6417,7 +6526,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256850720/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Platformer",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -6481,7 +6591,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256955037/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "RPG"
+      "RPG",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -6540,7 +6651,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257057629/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "RPG"
+      "Strategy",
+      "Simulation"
     ],
     "languages": "Multi",
     "size": "",
@@ -6628,7 +6740,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257297826/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Simulation"
+      "Simulation",
+      "Strategy"
     ],
     "languages": "Multi",
     "size": "",
@@ -6751,7 +6864,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257139670/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Strategy"
+      "Strategy",
+      "Simulation"
     ],
     "languages": "Multi",
     "size": "",
@@ -6782,7 +6896,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256910718/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Strategy"
+      "Action",
+      "Strategy",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -6814,7 +6930,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257348587/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Adventure"
+      "Simulation",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -6862,6 +6979,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257373728/movie_max.mp4",
     "year": 2024,
     "genres": [
+      "Survival",
+      "Open World",
       "Action"
     ],
     "languages": "Multi",
@@ -6925,7 +7044,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257363622/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Survival",
+      "Action",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -6989,7 +7110,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256932123/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Survival",
+      "Horror",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7092,7 +7215,10 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257229014/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Survival",
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7135,7 +7261,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256833670/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Shooter",
+      "Action",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -7167,6 +7295,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257320698/movie_max.mp4",
     "year": 2023,
     "genres": [
+      "Shooter",
       "Action"
     ],
     "languages": "Multi",
@@ -7234,7 +7363,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257304516/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7281,7 +7412,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257229212/movie_max.mp4",
     "year": 2015,
     "genres": [
-      "RPG"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7336,7 +7469,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256836016/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -7368,7 +7502,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257073789/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -7447,7 +7582,9 @@
     "trailer": "",
     "year": 2025,
     "genres": [
-      "Action"
+      "Shooter",
+      "Survival",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7478,7 +7615,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256823664/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Racing"
+      "Racing",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7550,7 +7688,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257081964/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Action"
+      "Racing",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -7660,7 +7799,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256999253/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Simulation"
+      "Sports",
+      "Fighting"
     ],
     "languages": "Multi",
     "size": "",
@@ -7719,7 +7859,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256827093/movie_max.mp4",
     "year": 2021,
     "genres": [
-      "Action"
+      "Adventure",
+      "Co-op",
+      "Puzzle"
     ],
     "languages": "Multi",
     "size": "",
@@ -7755,7 +7897,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256896952/movie_max.mp4",
     "year": 2022,
     "genres": [
-      "Adventure"
+      "Adventure",
+      "Platformer"
     ],
     "languages": "Multi",
     "size": "",
@@ -7798,7 +7941,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256790157/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Adventure",
+      "Co-op"
     ],
     "languages": "Multi",
     "size": "",
@@ -7838,6 +7982,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/80879/movie_max.mp4",
     "year": 2020,
     "genres": [
+      "Action",
       "RPG"
     ],
     "languages": "Multi",
@@ -7878,7 +8023,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257116893/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Adventure",
+      "Co-op"
     ],
     "languages": "Multi",
     "size": "",
@@ -7945,7 +8091,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256960118/movie_max.mp4",
     "year": 2023,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -7984,7 +8132,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257393084/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Shooter",
+      "Action",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8016,7 +8166,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257062970/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8051,6 +8203,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256812726/movie_max.mp4",
     "year": 2020,
     "genres": [
+      "Shooter",
       "Action"
     ],
     "languages": "Multi",
@@ -8091,7 +8244,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256819673/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -8127,7 +8280,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257076561/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -8178,7 +8332,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257088673/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8221,7 +8377,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257135187/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter",
+      "Survival",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8265,7 +8423,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257060902/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Stealth"
     ],
     "languages": "Multi",
     "size": "",
@@ -8304,7 +8464,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257367816/movie_max.mp4",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8371,7 +8533,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257022043/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8426,7 +8590,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256795524/movie_max.mp4",
     "year": 2020,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -8474,7 +8639,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257348470/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "Stealth"
     ],
     "languages": "Multi",
     "size": "",
@@ -8505,7 +8671,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257229922/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Horror",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -8568,7 +8735,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257244237/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -8604,7 +8772,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257091394/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -8715,7 +8884,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257338693/movie_max.mp4",
     "year": 2025,
     "genres": [
-      "Simulation"
+      "Strategy"
     ],
     "languages": "Multi",
     "size": "",
@@ -8762,6 +8931,7 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257018065/movie_max.mp4",
     "year": 2024,
     "genres": [
+      "Strategy",
       "Simulation"
     ],
     "languages": "Multi",
@@ -8809,7 +8979,9 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257221243/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "RPG",
+      "Open World"
     ],
     "languages": "Multi",
     "size": "",
@@ -8845,7 +9017,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257386773/movie_max.mp4",
     "year": 2024,
     "genres": [
-      "Action"
+      "Action",
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -8940,6 +9113,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/257399170/movie_max.mp4",
     "year": 2024,
     "genres": [
+      "Shooter",
+      "Survival",
       "Open World"
     ],
     "languages": "Multi",
@@ -8991,7 +9166,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/81422/movie_max.mp4",
     "year": 2017,
     "genres": [
-      "Action"
+      "Action",
+      "Horror"
     ],
     "languages": "Multi",
     "size": "",
@@ -9031,7 +9207,9 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "Platformer",
+      "Adventure"
     ],
     "languages": "Multi",
     "size": "",
@@ -9078,7 +9256,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Adventure",
+      "Simulation"
     ],
     "languages": "Multi",
     "size": "",
@@ -9125,7 +9304,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Simulation"
+      "Simulation",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -9172,7 +9352,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Adventure"
+      "Adventure",
+      "Narrative"
     ],
     "languages": "Multi",
     "size": "",
@@ -9219,6 +9400,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
+      "Action",
+      "Adventure",
       "Survival"
     ],
     "languages": "Multi",
@@ -9258,7 +9441,7 @@
     "trailer": "",
     "year": 2023,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9297,7 +9480,7 @@
     "trailer": "",
     "year": 2022,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9336,7 +9519,7 @@
     "trailer": "",
     "year": 2023,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9395,7 +9578,7 @@
     "trailer": "",
     "year": 2023,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9438,7 +9621,7 @@
     "trailer": "",
     "year": 2023,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9477,6 +9660,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
+      "Action",
+      "RPG",
       "Simulation"
     ],
     "languages": "Multi",
@@ -9524,7 +9709,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -9571,7 +9757,9 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Co-op",
+      "Action",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -9618,7 +9806,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Adventure"
+      "Adventure",
+      "Platformer"
     ],
     "languages": "Multi",
     "size": "",
@@ -9665,7 +9854,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "Roguelike"
     ],
     "languages": "Multi",
     "size": "",
@@ -9712,7 +9902,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9796,7 +9986,7 @@
     "trailer": "",
     "year": 2020,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9852,7 +10042,7 @@
     "trailer": "",
     "year": 2020,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9884,7 +10074,7 @@
     "trailer": "",
     "year": 2018,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9911,7 +10101,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9938,7 +10128,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9965,7 +10155,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -9992,7 +10182,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -10019,7 +10209,7 @@
     "trailer": "",
     "year": 2017,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -10114,7 +10304,7 @@
     "trailer": "",
     "year": 2007,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
@@ -10145,7 +10335,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/256700248/movie_max.mp4",
     "year": 2018,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10181,7 +10372,8 @@
     "trailer": "",
     "year": 2021,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10225,7 +10417,8 @@
     "trailer": "",
     "year": 2026,
     "genres": [
-      "Action"
+      "Action",
+      "RPG"
     ],
     "languages": "Multi",
     "size": "",
@@ -10276,7 +10469,8 @@
     "trailer": "https://cdn.akamai.steamstatic.com/steam/apps/2034180/movie_max.mp4",
     "year": 2014,
     "genres": [
-      "Action"
+      "Shooter",
+      "Survival"
     ],
     "languages": "Multi",
     "size": "",
@@ -10302,7 +10496,7 @@
     "trailer": "",
     "year": 2005,
     "genres": [
-      "Action"
+      "Shooter"
     ],
     "languages": "Multi",
     "size": "",
