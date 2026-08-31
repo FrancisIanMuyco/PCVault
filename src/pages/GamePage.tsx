@@ -195,9 +195,11 @@ export default function GamePage() {
               </div>
             </div>
           ))}
-          <p className="dl-note">
-            Source: <a href={game.link} target="_blank" rel="noreferrer">{game.link}</a>
-          </p>
+          {game.link && (
+            <p className="dl-note">
+              Source: <a href={game.link} target="_blank" rel="noreferrer">{game.link}</a>
+            </p>
+          )}
         </section>
       )}
 
