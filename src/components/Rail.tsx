@@ -12,8 +12,15 @@ export default function Rail({ games, limit = 12 }: Props) {
   const recent = useMemo(
     () =>
       [...games]
-        .filter((g) => g.date && !Number.isNaN(Date.parse(g.date)))
-        .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+        .filter((g) => {
+          const d = g.added || g.date
+          return d && !Number.isNaN(Date.parse(d))
+        })
+        .sort((a, b) => {
+          const da = Date.parse(a.added || a.date)
+          const db = Date.parse(b.added || b.date)
+          return db - da
+        })
         .slice(0, limit),
     [games, limit],
   )

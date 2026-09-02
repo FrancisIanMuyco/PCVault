@@ -29,6 +29,7 @@ export interface Game {
   screenshots?: string[]
   link: string
   date: string
+  added?: string
   download: string
   mirrors: MirrorLink[]
 }
